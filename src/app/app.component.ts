@@ -130,7 +130,7 @@ export class AppComponent implements OnInit {
       id: 'TaskID',
       name: 'TaskName',
       startDate: 'StartDate',
-      endDate: 'EndDate',
+      duration: 'Duration',
       child: 'subtasks'
     };
     this.eventMarkers = [
